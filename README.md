@@ -7,4 +7,4 @@ and [WY](https://stacks.stanford.edu/file/druid:yg821jf8611/yg821jf8611_wy_state
 
 [README from Stanford describing the data](https://github.com/stanford-policylab/opp/blob/master/data_readme.md)
 
-[Video of the assignment](https://www.youtube.com/watch?v=ZMGA4-AdA3M&feature=youtu.be)
+[Video explaining the assignment](https://www.youtube.com/watch?v=ZMGA4-AdA3M&feature=youtu.be) and showing some details of how the code in here works.
